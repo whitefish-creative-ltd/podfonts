@@ -1,0 +1,256 @@
+.pf {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(podfonts-sprite.svg);
+}
+.pf-podfonts {
+  width: 64px;
+  height: 64px;
+  background-position: 0 0;
+}
+.pf-cynical-developer {
+  width: 64px;
+  height: 64px;
+  background-position: -80px 0;
+}
+.pf-h-audio-boom {
+  width: 64px;
+  height: 64px;
+  background-position: -160px 0;
+}
+.pf-h-blog-talk-radio {
+  width: 64px;
+  height: 64px;
+  background-position: -240px 0;
+}
+.pf-h-blubrry {
+  width: 64px;
+  height: 64px;
+  background-position: -320px 0;
+}
+.pf-h-buzz-sprout {
+  width: 64px;
+  height: 64px;
+  background-position: -400px 0;
+}
+.pf-h-castos {
+  width: 64px;
+  height: 64px;
+  background-position: -480px 0;
+}
+.pf-h-fire-side {
+  width: 64px;
+  height: 64px;
+  background-position: -560px 0;
+}
+.pf-h-soundcloud1 {
+  width: 64px;
+  height: 64px;
+  background-position: -640px 0;
+}
+.pf-h-libsyn {
+  width: 64px;
+  height: 64px;
+  background-position: -720px 0;
+}
+.pf-h-omny-studio {
+  width: 64px;
+  height: 64px;
+  background-position: -800px 0;
+}
+.pf-h-pinecast {
+  width: 64px;
+  height: 64px;
+  background-position: -880px 0;
+}
+.pf-h-pippa-io {
+  width: 64px;
+  height: 64px;
+  background-position: -960px 0;
+}
+.pf-h-podcast-websites {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px 0;
+}
+.pf-h-podcasts-dot-com {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px 0;
+}
+.pf-h-podiant {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px 0;
+}
+.pf-h-podigee {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -80px;
+}
+.pf-h-podigee-o {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -80px;
+}
+.pf-h-podomatic {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -80px;
+}
+.pf-h-simplecast {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -80px;
+}
+.pf-h-spreaker {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -80px;
+}
+.pf-h-whooshkaa {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -80px;
+}
+.pf-h-zen-cast-fm {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -80px;
+}
+.pf-a-apple-podcasts {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -80px;
+}
+.pf-a-beyond-pod {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -80px;
+}
+.pf-a-castaway {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -80px;
+}
+.pf-a-castbox {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -80px;
+}
+.pf-a-castro {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -80px;
+}
+.pf-a-doggcatcher {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -80px;
+}
+.pf-a-downcast {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -80px;
+}
+.pf-a-google-play-music {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -80px;
+}
+.pf-a-google-podcasts {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -80px;
+}
+.pf-a-icatcher {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -160px;
+}
+.pf-a-laughable {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -160px;
+}
+.pf-a-overcast {
+  width: 64px;
+  height: 64px;
+  background-position: -160px -160px;
+}
+.pf-a-playerfm {
+  width: 64px;
+  height: 64px;
+  background-position: -240px -160px;
+}
+.pf-a-pocket-casts {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -160px;
+}
+.pf-a-podbean {
+  width: 64px;
+  height: 64px;
+  background-position: -400px -160px;
+}
+.pf-a-podcast-addict {
+  width: 64px;
+  height: 64px;
+  background-position: -480px -160px;
+}
+.pf-a-podcast-republic {
+  width: 64px;
+  height: 64px;
+  background-position: -560px -160px;
+}
+.pf-a-podchaser {
+  width: 64px;
+  height: 64px;
+  background-position: -640px -160px;
+}
+.pf-a-podcruncher {
+  width: 64px;
+  height: 64px;
+  background-position: -720px -160px;
+}
+.pf-a-podkicker {
+  width: 64px;
+  height: 64px;
+  background-position: -800px -160px;
+}
+.pf-a-radio-republic {
+  width: 64px;
+  height: 64px;
+  background-position: -880px -160px;
+}
+.pf-a-rss {
+  width: 64px;
+  height: 64px;
+  background-position: -960px -160px;
+}
+.pf-a-spotify {
+  width: 64px;
+  height: 64px;
+  background-position: -1040px -160px;
+}
+.pf-a-stitcher {
+  width: 64px;
+  height: 64px;
+  background-position: -1120px -160px;
+}
+.pf-a-tunein {
+  width: 64px;
+  height: 64px;
+  background-position: -1200px -160px;
+}
+.pf-h-soundcloud {
+  width: 64px;
+  height: 64px;
+  background-position: 0 -240px;
+}
+.pf-a-iheartradio {
+  width: 64px;
+  height: 64px;
+  background-position: -80px -240px;
+}
+
