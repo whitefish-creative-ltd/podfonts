@@ -14,7 +14,7 @@
 ## Helping consistency of Podcast websites.
 Our icons are divided into two main groups Apps and Hosts.
 
-##Getting started with Podfonts
+## Getting started with Podfonts
 The Podfont CDN is the simplest, quickest and most reliable way to start using our podcast icons on your new website.
 
 CDN Link, v1.1.0:                  
